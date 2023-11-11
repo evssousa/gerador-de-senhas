@@ -1,0 +1,29 @@
+.container {
+    text-align: center;
+}
+
+.container h1 {
+    color: white;
+    font-size: 40px;
+}
+
+.container p {
+    color: white;
+    margin-top: -15px;
+}
+
+.container button {
+    background-color: #1a1a1a;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+    margin: 35px 15px;
+    cursor: pointer;
+}
+
+.container button:hover {
+    background-color: #0f0f0f;
+    border: 1px solid rgb(167, 95, 167);
+    margin: 34px 14px;
+}
