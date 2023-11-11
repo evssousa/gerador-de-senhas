@@ -9,4 +9,5 @@ Currently, two official plugins are available:
 
 # Sobre o projeto
 Projeto para aperfeiçoar as práticas com React, desenvolvendo um gerador de senhas.
+
 <img src='https://i.imgur.com/IhrL9bG.png'>
