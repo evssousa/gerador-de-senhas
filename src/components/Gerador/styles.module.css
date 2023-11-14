@@ -27,3 +27,17 @@
     border: 1px solid rgb(167, 95, 167);
     margin: 34px 14px;
 }
+
+.container input {
+    background-color: #1a1a1a;
+    width: 100px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+    margin: 35px 15px 5px;
+}
+
+.container label {
+    color: white;
+}
