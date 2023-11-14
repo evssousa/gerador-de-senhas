@@ -5,7 +5,7 @@ export default function Gerador() {
 
     const [senha, setSenha] = useState('. . .')
     const [copiar, setCopiar] = useState('Copiar')
-    const [tamanhoSenha, setTamanhoSenha] = useState(12)
+    const [tamanhoSenha, setTamanhoSenha] = useState(6)
 
     function gerarSenha() {
         const caracteres = "'1234567890-=!@#$%¨&*()_+qwertyuiop[asdfghjklç~]zxcvbnm,.;/QWERTYUIOP{ASDFGHJKLÇ^}ZXCVBNM<>:?"
